@@ -1,0 +1,20 @@
+# Judge clients
+anthropic
+openai
+ollama
+python-dotenv
+
+# Data & numerics
+datasets
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+
+# Notebook / EDA
+matplotlib
+seaborn
+
+# Tests
+pytest
